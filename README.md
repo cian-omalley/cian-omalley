@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**cian-omalley/cian-omalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cian O'Malley
 
-Here are some ideas to get you started:
+### Developer • Builder • Creative Technologist • Systems Tinkerer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build projects across **software, automation, creative technology, gaming communities, AI workflows, self-hosted infrastructure, documentation, and digital experiences**.
+
+My portfolio is broader than development alone, so my main portfolio domain is:
+
+## [cianomalley.works](https://cianomalley.works)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge)
+
+</div>
+
+---
+
+## About Me
+
+I am a hands-on builder focused on turning ideas into working systems.
+
+My work combines development, automation, self-hosting, AI-assisted workflows, creative production, gaming tools, and documentation.
+
+I like building projects that are practical, modular, and useful beyond a single experiment.
+
+My usual workflow:
+
+```txt
+Research → Plan → Build → Test → Document → Improve
