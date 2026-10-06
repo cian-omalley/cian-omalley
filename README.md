@@ -12,9 +12,9 @@ My portfolio is broader than development alone, so my main portfolio domain is:
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=cian-omalley&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/cian-omalley?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/cian-omalley?style=for-the-badge)
 
 </div>
 
